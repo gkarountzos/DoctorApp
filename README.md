@@ -1,6 +1,6 @@
 ## Doctor Management App | created in Eclipse IDE
 
-Developed a Java application for managing doctor records.
+Developed a Java application one year ago for managing doctor records.
 
 Implemented four main Java classes for different functionalities, login , search, insert, update/delete.
 
