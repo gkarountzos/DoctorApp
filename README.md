@@ -2,12 +2,8 @@
 
 Developed a Java application for managing doctor records.
 
-Implemented four main Java classes for different functionalities:
+Implemented four main Java classes for different functionalities, login , search, insert, update/delete.
 
-- Developed a main form for the doctor management system.
-- Implemented functionalities for inserting and searching doctors.
-- Created a login form for accessing the doctor management system.
-- Created a form for updating and deleting doctor records.
 - Utilized Java Swing for the graphical interface.
 - Integrated JDBC for database connectivity.
 - Implemented error handling for SQLExceptions.
